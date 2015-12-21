@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AndroidLesson7_Volley</string>
+    <string name="app_name">Lesson7_Volley</string>
+    <string name="progressing_hint">Please wait until finish...</string>
 </resources>
